@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="716ee0c8-5d3d-4b0d-9762-c03a913b714a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/Deydam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/Resources/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deydam_auto_task/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/Monosnap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/Resource/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/src/test/java/Login/LoginTesT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monosnap/target/test-classes/Login/LoginTesT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/088fa8e5-3254-4ea0-b04d-1d0f317904cb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/27dddb07-b1c7-4fca-b589-5e2a271b0731-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b94ce5c-05b1-464f-8c57-933f11c4f80a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/32b6ab07-14c8-4fc2-aa2b-79b533807894-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/33a04e73-6c79-4a38-b21a-f81471a18679-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/384324f1-1cce-4179-a744-456cc1f1bfef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/41f502dc-b4f5-4f19-8c65-0d786ef7dee3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4944c0af-093a-45ef-8655-89b81903caae-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d428804-4307-4188-86fd-3ad2490491d3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5f0c257f-210b-419d-80c5-4e1152174fb4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/62001da1-9053-42f8-8894-47d1dca41904-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/68ab1798-31b5-48fe-9ed2-7fdc7664e822-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6d7aa569-12cc-4b0a-9c94-b433e9e370e0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7098516c-0ef6-4d86-a4ea-b4bb5946a0dc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b084038-e18c-4763-bf96-b784c4a2c555-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7c2414e1-7437-4b58-a3b3-b7efb3884950-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7e472039-67b2-43fe-a0d1-383b99ac26e7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88a3e930-501b-430b-9de3-eb15345a0760-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8beef5a4-e092-4042-b28e-04cd499b4545-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8d9d08bc-a1bc-432d-8881-f712627432d4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8e47c6d4-994d-47c4-8393-223f6cefc71b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a704e2c1-61f1-4927-bde7-9db688e9c2df-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b3785451-8ebd-4dc7-979e-062f891712dd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b8ddc43b-0624-4825-aafb-95ee7dc3a874-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d57f888e-8ee8-4c10-bcce-2b92096afd41-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d5a24caf-0588-409f-944e-6bb3fd4a85b5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d976e139-5806-46eb-a51b-5b3e27c64ccc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/daf907a4-a4e5-4146-b0d2-175e9b4dcf3e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8fc5c60-4bc4-4a82-aaa1-ffb1e2ae4729-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f6b22f02-0aae-41a8-a346-79cb736ccf92-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Login/Logintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Login/Logintest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/Facebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/src/Resource/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/Facebook/target/test-classes/Login/LoginTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/selenium_webdriver_Automation/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.side" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/.side" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deydam_selenium_signup.side" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium_ide_tsk/Deydam_selenium_signup.side" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\ASUS\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lNnK2fEGBzDHUdWqd3Xui7ISWu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\uiautomationtask\selenium _webdriver_automation\single_page_approach\Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Logintest">
+    <configuration name="Logintests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.Logintests" />
+      <module name="Deydam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Logintest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Deydam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.Logintest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Logintest" />
+        <item itemvalue="Application.Logintests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="716ee0c8-5d3d-4b0d-9762-c03a913b714a" name="Default Changelist" comment="" />
+      <created>1607446352706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607446352706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1607496221327">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1607496221327" />
+    <state x="413" y="138" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1607496648044">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="138" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.768@0.0.1366.768" timestamp="1607496648044" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1607514045241">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1607514045241" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1607514045240">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1607514045240" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1607514045240">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1607514045240" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1607514045241">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1607514045241" />
+    <state x="268" y="44" key="new project wizard" timestamp="1607512133220">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="268" y="44" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1607512133220" />
+  </component>
+</project>
